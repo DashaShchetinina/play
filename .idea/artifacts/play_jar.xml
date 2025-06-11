@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="play:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/play_jar</output-path>
+    <root id="archive" name="play.jar">
+      <element id="module-output" name="play" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jline/jline/2.14.6/jline-2.14.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
